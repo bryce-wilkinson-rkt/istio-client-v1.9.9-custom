@@ -1,4 +1,4 @@
-module istio.io/client-go
+module github.com/bryce-wilkinson-rkt/istio-client-v1.9.9-custom
 
 go 1.15
 
